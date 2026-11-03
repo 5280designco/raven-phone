@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Raven Phone</string>
+    <string name="title_activity_main">Raven Phone</string>
+    <string name="package_name">com.ravenpbx.phone</string>
+    <string name="custom_url_scheme">com.ravenpbx.phone</string>
+</resources>
